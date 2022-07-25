@@ -18,7 +18,6 @@ Eu sou estudante de desenvolvimento na Trybe
 
 <p align="left"> <a href="https://www.github.com/https://github.com/ACarlosMachado" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ACarlosMachado" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acarlosmachado&show_icons=true&locale=en&layout=compact" alt="acarlosmachado" /> </p>
 
