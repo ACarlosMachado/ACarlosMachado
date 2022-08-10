@@ -1,12 +1,13 @@
 Olá 👋 me chamo Carlos Machado
 ===============================
 
-Eu sou estudante de desenvolvimento na Trybe
+<h4>Eu sou apaixonado por tecnologia e pela mudança que ela pode proporcionar na vida das pessoas.
+Estou iniciando minha carreira em TI e estudando desenvolvimento web na Trybe. O curso oferece uma formação full-stack com uma carga horária aproximada de 1500h em tópicos que vão do fundamento da programação à ciências da computação. </h4>
 -----------------------------------------
 
 * 🌍  Moro em Natal-RN
-* ✉️  Email [acarlos.acrm@gmail.com](mailto:acarlos.acrm@gmail.com)
-* 🧠  Estou estudando TypeScript and POO (programação orientada a objetos)
+* ✉️  Email [antoniocarlos_acrm@hotmail.com](mailto:antoniocarlos_acrm@hotmail.com)
+* 🧠  No momento estou estudando TypeScript e POO (programação orientada a objetos);
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
