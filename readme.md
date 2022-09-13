@@ -7,7 +7,7 @@ Estou iniciando minha carreira em TI e estudando desenvolvimento web na Trybe. O
 
 * 🌍  Moro em Natal-RN
 * ✉️  Email [antoniocarlos_acrm@hotmail.com](mailto:antoniocarlos_acrm@hotmail.com)
-* 🧠  No momento estou estudando TypeScript e POO (programação orientada a objetos);
+* 🧠  No momento estou estudando MongoDB;
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
