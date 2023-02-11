@@ -1,13 +1,12 @@
 Olá 👋 me chamo Carlos Machado
 ===============================
 
-<h4>Eu sou apaixonado por tecnologia e pela mudança que ela pode proporcionar na vida das pessoas.
-Estou iniciando minha carreira em TI e estudando desenvolvimento web na Trybe. O curso oferece uma formação full-stack com uma carga horária aproximada de 1500h em tópicos que vão do fundamento da programação à ciências da computação. </h4>
+<h4> Eu sou apaixonado por tecnologia e pela transformação que ela pode causar na vida das pessoas. No final de 2022 finalizei meus estudos de desenvolvimento web na Trybe. O curso me ofereceu uma formação full-stack abrangente, com cerca de 1500 horas de aulas que abrangeram desde os fundamentos da programação até as ciências da computação. Agora, estou pronto para aplicar meus conhecimentos na minha carreira. </h4>
 -----------------------------------------
 
 * 🌍  Moro em Natal-RN
-* ✉️  Email [antoniocarlos_acrm@hotmail.com](mailto:antoniocarlos_acrm@hotmail.com)
-* 🧠  No momento estou estudando MongoDB;
+* ✉️  Email [acarlos.acrm@gmail.com](mailto:acarlos.acrm@gmail.com)
+* 🧠  No momento estou revisando meus conhecimentos em Node.js, Docker e MySQL.
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
